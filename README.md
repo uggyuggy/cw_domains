@@ -14,6 +14,6 @@ This repository purpose is to daily share the list of `.cw` domain names.
 - The file served here should be updated 1 time per day to not overload the remote server for no reason.
 - The file contains an additional comment line at the top starting with # that contain an UTC date information.
 - For now there is a single comment line, but in case I add more in the future, you may better remove everything that start with a `#`
-- The domain names are provided sorted ( LC_ALL=C sort -u)
-- Background of why the file is provided, see https://github.com/monoidic/TLDR2/issues/3
+- The domain names are provided sorted ( `LC_ALL=C sort -u`)
+- Background of why this repo, see https://github.com/monoidic/TLDR2/issues/3
 

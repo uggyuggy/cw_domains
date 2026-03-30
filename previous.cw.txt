@@ -1,4 +1,4 @@
-# .cw domain names extracted by dnssec zonewalk on 27Mar2026 02:46 UTC
+# .cw domain names extracted by dnssec zonewalk on 28Mar2026 02:46 UTC
 1337.cw.
 247taxi.cw.
 247taxicuracao.cw.

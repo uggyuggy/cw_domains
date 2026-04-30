@@ -1,4 +1,4 @@
-# .cw domain names extracted by dnssec zonewalk on 28Apr2026 01:46 UTC
+# .cw domain names extracted by dnssec zonewalk on 29Apr2026 01:45 UTC
 1337.cw.
 247taxi.cw.
 247taxicuracao.cw.
@@ -997,6 +997,7 @@ rekenkamercuracao.cw.
 remax.cw.
 renault.cw.
 renovatiehofvanjustitie.cw.
+ribeluga.cw.
 risc.cw.
 risus.cw.
 rituals.com.cw.
@@ -1043,6 +1044,7 @@ sindikatodoen.cw.
 sinusta.cw.
 sixt.cw.
 sjb.cw.
+skin.cw.
 skincosmetics.cw.
 smallbusinessacademy.cw.
 smartbio.cw.
